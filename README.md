@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @deuct
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning everything i want
 - 📫 How to reach me : farhan972015@gmail.com | 088296461698
 
 <!---
